@@ -1,4 +1,4 @@
-package com.hapirobo.shortcut_template;
+package com.hapirobo.apk_template;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

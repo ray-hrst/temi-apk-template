@@ -1,4 +1,4 @@
-package com.hapirobo.shortcut_template;
+package com.hapirobo.apk_template;
 
 import org.junit.Test;
 

@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">shortcut_name</string>
-    <string name="package_name">com.hapirobo.package_name</string>
-    <string name="app_not_found">App not found</string>
+    <string name="app_name">apk_name</string>
 </resources>
