@@ -17,11 +17,11 @@ public class MainActivity extends AppCompatActivity {
         // initialize robot
         robot = Robot.getInstance();
 
-        // run open loop
-        openLoop();
+        // run task
+        robotTask();
     }
 
-    private void openLoop() {
-        // replace code
+    private void robotTask() {
+        // insert code here
     }
 }
